@@ -1,6 +1,6 @@
 # Module 3 Coding Assignment
 
-Visit [My Solution](https://ngzhekai.github.io/Coursera-Module-3-Coding-Assignment/)
+Visit [My Solution](https://luthfiaryaa.github.io/Module-3-Coding-Assignment/)
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
